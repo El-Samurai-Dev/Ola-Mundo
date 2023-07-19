@@ -3,5 +3,5 @@
 
  Aprendendo a criar um repositorio de versionamento
 
- essa linha usei para testar o editor do site di github.
+ essa linha usei para testar o editor do site do github.
  
